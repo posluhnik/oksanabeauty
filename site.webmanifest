@@ -1,0 +1,23 @@
+{
+  "name": "Oksanabeauty Beauty Studio",
+  "short_name": "Oksanabeauty",
+  "lang": "nl-NL",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f5f0",
+  "theme_color": "#e51b2a",
+  "icons": [
+    {
+      "src": "assets/icons/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
